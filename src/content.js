@@ -84,6 +84,6 @@
     };
 
     // Download the final HTML file
-    downloadHTML(finalHTML, "cloned_website.html");
+    downloadHTML(finalHTML, "index.html");
 
 })();
